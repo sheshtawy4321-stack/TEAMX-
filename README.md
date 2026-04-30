@@ -1,5 +1,4 @@
-# TEAMX-
-Price & Power: A 64-Year Analysis of Egypt's Economic Resilience and Purchasing Power (1960–2024)
+# Price & Power: A 64-Year Analysis of Egypt's Economic Resilience and Purchasing Power (1960–2024)
 Introduction  
 Over the past six decades, Egypt’s economy has experienced major transformations driven by monetary policies, exchange rate fluctuations, and external economic shocks. Although income levels have increased over time, this growth does not necessarily reflect an improvement in citizens’ real living standards.
 This project, “Cost of Living”, analyzes Egypt’s economic performance from 1960 to 2024, focusing on inflation and its relationship with key indicators such as income, unemployment, interest rates, exchange rate, trade balance, and foreign reserves.
